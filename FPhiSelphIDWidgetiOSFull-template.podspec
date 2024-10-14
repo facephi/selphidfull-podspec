@@ -46,7 +46,7 @@ Pod::Spec.new do |spec|
     spec.dependency 'DocumentReader', '~> 6.9.0'
     spec.dependency 'DocumentReaderFullAuth', '~> 6.9.0'
     spec.dependency "FPhiMBWidgetiOS", "6.9.2"
-    spec.dependency 'FHISelphidDocumentReaderBundle', '0.28.0'
+    spec.dependency 'FHISelphidDocumentReaderBundle', '0.31.0'
     spec.dependency "zipzap"
   
   
