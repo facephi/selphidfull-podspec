@@ -45,8 +45,7 @@ Pod::Spec.new do |spec|
     spec.dependency "GoogleMLKit/TextRecognitionJapanese", "6.0.0"
     spec.dependency 'DocumentReader', '~> 6.9.0'
     spec.dependency 'DocumentReaderFullAuth', '~> 6.9.0'
-    spec.dependency "FPhiMBWidgetiOS", "6.9.2"
-    spec.dependency 'FHISelphidDocumentReaderBundle', '0.31.0'
+    spec.dependency "FPhiMBWidgetiOS", "6.11.0"
     spec.dependency "zipzap"
   
   
